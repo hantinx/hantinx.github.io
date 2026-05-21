@@ -19,7 +19,6 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 [**Paper**](https://openreview.net/forum?id=DT4rnkRHbx)
 
   - We study language-guided reasoning camouflaged object segmentation, where the model is required to identify hidden objects according to explicit or implicit textual instructions.
-  - This work explores camouflaged object understanding under natural-language expressions, spatial relations, scene semantics, and commonsense reasoning.
 
 </div>
 </div>
@@ -93,7 +92,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>EAAI 2025</b></div>
-<img src='images/eaai_rail.png' alt="Rail Defect Detection" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/eaai.png' alt="Rail Defect Detection" style="width:100%; height:260px; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">

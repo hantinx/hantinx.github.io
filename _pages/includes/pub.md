@@ -72,27 +72,6 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>IEEE TIM</b></div>
-<img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:auto; object-fit:cover;">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740) (<b><font color="red">IEEE TIM, CAS Q2 TOP / 中科院二区TOP</font></b>) \\
-**Tianxin Han**, Qing Dong, Xingwei Wang, Lina Sun
-
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10729740)
-
-  - We develop an enhanced YOLOv8-based model for high-precision real-time bearing defect detection.
-  - This work focuses on lightweight industrial inspection and robust defect localization.
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
 <div class="badge" style="font-size: 1.0em;"><b>IEEE TCE</b></div>
 <img src='images/cdnet.png' alt="CDNet" style="width:100%; height:auto; object-fit:cover;">
 </div>
@@ -130,6 +109,25 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 </div>
 </div>
 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge" style="font-size: 1.0em;"><b>IEEE TIM</b></div>
+<img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:auto; object-fit:cover;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740) (<b><font color="red">IEEE TIM, CAS Q2 TOP / 中科院二区TOP</font></b>) \\
+**Tianxin Han**, Qing Dong, Xingwei Wang, Lina Sun
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10729740)
+
+  - We develop an enhanced YOLOv8-based model for high-precision real-time bearing defect detection.
+
+</div>
+</div>
 
 ## Small Object Detection and Agricultural Vision
 

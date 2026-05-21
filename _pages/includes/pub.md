@@ -97,10 +97,10 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](#) (<b><font color="red">Engineering Applications of Artificial Intelligence, CAS Q1 / 中科院一区</font></b>) \\
+[Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](https://www.sciencedirect.com/science/article/pii/S0952197625021104) (<b><font color="red">Engineering Applications of Artificial Intelligence, CAS Q1 / 中科院一区</font></b>) \\
 Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 
-[**Paper**](#)
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0952197625021104)
 
   - We investigate real-time rail defect detection with industrial device-aided data collection and lightweight visual modeling.
   - \* Equal contribution.
@@ -134,7 +134,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>PestLite</b></div>
-<img src='images/pestlite.png' alt="PestLite" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/pest.png' alt="PestLite" style="width:100%; height:260px; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -156,15 +156,15 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>Traffic Sign Detection</b></div>
-<img src='images/traffic_sign.png' alt="Traffic Sign Detection" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/sign.png' alt="Traffic Sign Detection" style="width:100%; height:260px; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[An Improved YOLO Model for Traffic Signs Small Target Image Detection](#) \\
+[An Improved YOLO Model for Traffic Signs Small Target Image Detection](https://www.mdpi.com/2076-3417/13/15/8754) \\
 **Tianxin Han**, Lina Sun, Qing Dong
 
-[**Paper**](#)
+[**Paper**](https://www.mdpi.com/2076-3417/13/15/8754)
 
   - We improve YOLO-based small traffic sign detection for challenging small-target scenarios.
 
@@ -176,7 +176,7 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>SenseLite</b></div>
-<img src='images/senselite.png' alt="SenseLite" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/sense.png' alt="SenseLite" style="width:100%; height:260px; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">

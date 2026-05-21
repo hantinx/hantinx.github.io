@@ -9,7 +9,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>CamoQuery</b></div>
+<div class="badge" style="font-size: 1.0em;"><b>ACL 2026</b></div>
 <img src='images/camoquery.png' alt="CamoQuery" style="width:100%; height:260px; object-fit:cover;">
 </div>
 </div>

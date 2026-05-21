@@ -2,8 +2,6 @@
 
 My full paper list can be found at <a href='https://scholar.google.com/citations?user=n2UQdxEAAAAJ'>Google Scholar</a>.
 
-<font size="2">\* Equal contribution. <sup>†</sup> Corresponding author.</font>
-
 ## Language-Guided and Camouflaged Object Segmentation
 
 <div class='paper-box'>
@@ -16,7 +14,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [CamoQuery: Language-Guided Reasoning Camouflaged Object Segmentation](https://openreview.net/forum?id=DT4rnkRHbx)  
-(<b><font color="red">Annual Meeting of the Association for Computational Linguistics (ACL 2026), CCF-A</font></b>) \\
+(<b><font color="red">ACL 2026, CCF-A</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Jie Jia, Gang Wu, Bowen Yang, Fu Zhang
 
 [**Paper**](https://openreview.net/forum?id=DT4rnkRHbx)
@@ -37,7 +35,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [Learning Depth Guidance for Camouflaged Object Detection without Annotations](https://ieeexplore.ieee.org/abstract/document/11462568)  
-(<b><font color="#8E44AD">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), CCF-B</font></b>) \\
+(<b><font color="#8E44AD">ICASSP 2026, CCF-B</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Jie Jia, Lina Sun, Ming Huang, Gang Wu, Fu Zhang
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462568)
@@ -59,7 +57,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised Camouflaged Object Detection as Progressive Perception Learning](https://www.sciencedirect.com/science/article/pii/S095070512501038X)  
-(<b><font color="red">Knowledge-Based Systems (KBS), SCI, CAS Q1 / 中科院一区, IF=7.6</font></b>) \\
+(<b><font color="red">Knowledge-Based Systems, SCI, CAS Q1 / 中科院一区, IF=7.6</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Ming Huang, Jie Jia, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S095070512501038X)
@@ -83,7 +81,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241)  
-(<b><font color="red">IEEE Transactions on Consumer Electronics (IEEE TCE), SCI, CAS Q1 / 中科院一区, IF=10.9</font></b>) \\
+(<b><font color="red">IEEE Transactions on Consumer Electronics, SCI, CAS Q1 / 中科院一区, IF=10.9</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Jie Jia, Fu Zhang, Ming Huang
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241)
@@ -104,7 +102,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](https://www.sciencedirect.com/science/article/pii/S0952197625021104)  
-(<b><font color="red">Engineering Applications of Artificial Intelligence (EAAI), SCI, CAS Q1 / 中科院一区, IF=8.0</font></b>) \\
+(<b><font color="red">Engineering Applications of Artificial Intelligence, SCI, CAS Q1 / 中科院一区, IF=8.0</font></b>) \\
 Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0952197625021104)
@@ -126,7 +124,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box-text' markdown="1">
 
 [BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740)  
-(<b><font color="#8E44AD">IEEE Transactions on Instrumentation and Measurement (IEEE TIM), SCI, CAS Q2 TOP / 中科院二区TOP, IF=5.9</font></b>) \\
+(<b><font color="#8E44AD">IEEE Transactions on Instrumentation and Measurement, SCI, CAS Q2 TOP / 中科院二区TOP, IF=5.9</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Lina Sun
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10729740)

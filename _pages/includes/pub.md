@@ -92,7 +92,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>EAAI 2025</b></div>
-<img src='images/eaai.png' alt="Rail Defect Detection" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/eaai.png' alt="Rail Defect Detection" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">

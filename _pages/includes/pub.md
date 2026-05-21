@@ -200,17 +200,38 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge" style="font-size: 1.0em;"><b>Remote Sensing 2026</b></div>
+<img src='images/foggy.png' alt="Foggy UAV Detection" style="width:100%; height:auto; object-fit:contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Object Detection for UAVs in Foggy Environments with Spatial-Edge Fusion and Dynamic Task Alignment](https://www.mdpi.com/2072-4292/18/1/169)  
+(<b><font color="#1E88E5">Remote Sensing, SCI</font></b>) \\
+Qing Dong, **Tianxin Han**, Gang Wu, Lina Sun, Y. Lu
+
+[**Paper**](https://www.mdpi.com/2072-4292/18/1/169)
+
+  - We investigate robust UAV object detection in foggy environments with spatial-edge fusion and dynamic task alignment.
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge" style="font-size: 1.0em;"><b>Remote Sensing 2025</b></div>
 <img src='images/rsnet.png' alt="RSNet" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[RSNet: Compact-Align Detection Head Embedded Lightweight Network for Small Object Detection in Remote Sensing](#)  
+[RSNet: Compact-Align Detection Head Embedded Lightweight Network for Small Object Detection in Remote Sensing](https://www.mdpi.com/2072-4292/17/12/1965)  
 (<b><font color="#1E88E5">Remote Sensing, SCI</font></b>) \\
 Qing Dong, **Tianxin Han**, Gang Wu, Bowen Qiao, Lina Sun
 
-[**Paper**](#)
+[**Paper**](https://www.mdpi.com/2072-4292/17/12/1965)
 
   - We study lightweight small object detection in remote sensing images with a compact-align detection head.
 
@@ -222,39 +243,18 @@ Qing Dong, **Tianxin Han**, Gang Wu, Bowen Qiao, Lina Sun
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>Applied Sciences 2025</b></div>
-<img src='images/usd_yolo.png' alt="USD-YOLO" style="width:100%; height:auto; object-fit:contain;">
+<img src='images/usd.png' alt="USD-YOLO" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception](#)  
+[USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception](https://www.mdpi.com/2076-3417/15/7/3795)  
 (<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
 Hao Deng, Shuo Zhang, Xingwei Wang, **Tianxin Han**, Yu Ye
 
-[**Paper**](#)
+[**Paper**](https://www.mdpi.com/2076-3417/15/7/3795)
 
   - We improve YOLO-based small object detection for unmanned systems perception.
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge" style="font-size: 1.0em;"><b>Remote Sensing 2026</b></div>
-<img src='images/foggy_uav.png' alt="Foggy UAV Detection" style="width:100%; height:auto; object-fit:contain;">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[Robust Object Detection for UAVs in Foggy Environments with Spatial-Edge Fusion and Dynamic Task Alignment](#)  
-(<b><font color="#1E88E5">Remote Sensing, SCI</font></b>) \\
-Qing Dong, **Tianxin Han**, Gang Wu, Lina Sun, Y. Lu
-
-[**Paper**](#)
-
-  - We investigate robust UAV object detection in foggy environments with spatial-edge fusion and dynamic task alignment.
 
 </div>
 </div>
@@ -266,16 +266,16 @@ Qing Dong, **Tianxin Han**, Gang Wu, Lina Sun, Y. Lu
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>Applied Sciences 2025</b></div>
-<img src='images/map_registration.png' alt="Historical Map Registration" style="width:100%; height:auto; object-fit:contain;">
+<img src='images/map.png' alt="Historical Map Registration" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[A Registration Method for Historical Maps Based on Self-Supervised Feature Matching](#)  
+[A Registration Method for Historical Maps Based on Self-Supervised Feature Matching](https://www.mdpi.com/2076-3417/15/3/1472)  
 (<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
 Z. Qin, Y. Feng, Gang Wu, Qing Dong, **Tianxin Han**
 
-[**Paper**](#)
+[**Paper**](https://www.mdpi.com/2076-3417/15/3/1472)
 
   - We study self-supervised feature matching for historical map registration.
 

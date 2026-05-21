@@ -1,0 +1,20 @@
+# 🔥 News
+- *2026.04*：One [survy paper](https://www.cjig.cn/zh/article/doi/10.11834/jig.260163/) on remote sensing open vocabulary perception is accepted by Journal of Image and Graphics (中国图象图形学报).
+- *2026.02*：[SegEarth-R2](https://arxiv.org/abs/2512.20013) (Highlight) and [ZoomEarth](https://arxiv.org/abs/2511.12267) (Highlight) are accepted by CVPR 2026. 🎉
+- *2026.01*: We are launching the [「天眼智境」遥感图像语言引导分割挑战赛 (Track 1)](https://www.codabench.org/competitions/12624/) at [AIRS-2026](https://www.airs.top/) “国测海遥杯”. Welcome to participate!🔥
+- *2025.12*: 入选2025年度中国科协青年科技人才培育工程博士生专项计划 ! 🎉
+- *2025.11*: [DynamicEarth](https://likyoo.github.io/DynamicEarth/) is accepted by AAAI 2026 (<b><font color="red">Oral</font></b>) ! 🎉🎉🎉
+- *2025.10*: I get the National Scholarship of Ph.D. (博士生国家奖学金) ! 🎉
+- *2025.09*: 微信公众号“[地球洞察](https://mp.weixin.qq.com/s/Zhy89_G6OaFQn7bsaRIWog)” is now operational. We will promptly publish quick overviews of the latest RS&DL-related research papers.
+- *2025.07*: [Open-CD](https://github.com/likyoo/open-cd) is accepted by ACM MM 2025.
+- *2025.06*: We get the [VALSE 2025 "Popular Poster" award](https://valser.org/2025/#/poster) (11/398) !
+- *2025.04*: One paper on UAV tracking is accepted by CVPR 2025 Anti-UAV2025 workshop.
+- *2025.03*: We win <b><font color="red">1st</font></b> place in the [CVPR 2025 Anti-UAV Workshop & Challenge - Track 3](https://anti-uav.github.io/). 🏆
+- *2025.02*: [SegEarth-OV](https://likyoo.github.io/SegEarth-OV/) (<b><font color="red">Oral, 96/13008≈0.7%</font></b>) and [SAM-Road++](https://arxiv.org/abs/2411.16733) are accepted by CVPR 2025. 🎉🎉🎉
+- *2024.12*: One paper on Semi-supervised Change Detection based on Vision-Language Model is accepted by TGRS.
+- *2024.09*: [BAN](https://arxiv.org/abs/2312.01163) becomes an <b><font color="red">ESI Highly Cited Paper</font></b>.
+- *2024.07*: Open-CD Technical Report v1.0 is released on [arXiv](https://arxiv.org/abs/2407.15317), thanks to all contributors!
+- *2024.05*: We win 3rd place in ISPRS TC I Contest (Change Detection).
+- *2024.04*: One paper on RS few-shot segmentation is accepted by CVPR 2024 L3D-IVU workshop.
+- *2024.04*: We win 2nd place in the [CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge](https://cliffbb.github.io/OEM-Fewshot-Challenge/).
+- *2024.02*: One paper on RS Change Detection based on Foundation Model is accepted by TGRS.

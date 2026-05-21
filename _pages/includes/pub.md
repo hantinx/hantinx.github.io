@@ -73,15 +73,15 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>IEEE TIM</b></div>
-<img src='images/bed_yolo.png' alt="BED-YOLO" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:260px; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](#) (<b><font color="red">IEEE TIM, CAS Q2 TOP / 中科院二区TOP</font></b>) \\
+[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740) (<b><font color="red">IEEE TIM, CAS Q2 TOP / 中科院二区TOP</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Lina Sun
 
-[**Paper**](#)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10729740)
 
   - We develop an enhanced YOLOv8-based model for high-precision real-time bearing defect detection.
   - This work focuses on lightweight industrial inspection and robust defect localization.
@@ -99,10 +99,10 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 <div class='paper-box-text' markdown="1">
 
-[CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](#) (<b><font color="red">IEEE TCE, CAS Q1 / 中科院一区</font></b>) \\
+[CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241) (<b><font color="red">IEEE TCE, CAS Q1 / 中科院一区</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Jie Jia, Fu Zhang, Ming Huang
 
-[**Paper**](#)
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241)
 
   - We propose an efficient real-time chip defect detection framework for consumer electronics inspection.
 

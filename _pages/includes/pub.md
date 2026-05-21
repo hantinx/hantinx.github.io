@@ -133,13 +133,14 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>PestLite</b></div>
-<img src='images/pest.png' alt="PestLite" style="width:100%; height:260px; object-fit:cover;">
+<div class="badge" style="font-size: 1.0em;"><b>Agriculture 2024</b></div>
+<img src='images/pest.png' alt="PestLite" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection](https://www.mdpi.com/2077-0472/14/2/228) (<b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>) \\
+[PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection](https://www.mdpi.com/2077-0472/14/2/228)  
+(<b><font color="red">Agriculture, SCI</font></b>, <b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>) \\
 Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 
 [**Paper**](https://www.mdpi.com/2077-0472/14/2/228)
@@ -155,13 +156,14 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>Traffic Sign Detection</b></div>
-<img src='images/sign.png' alt="Traffic Sign Detection" style="width:100%; height:260px; object-fit:cover;">
+<div class="badge" style="font-size: 1.0em;"><b>Applied Sciences 2023</b></div>
+<img src='images/sign.png' alt="Traffic Sign Detection" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[An Improved YOLO Model for Traffic Signs Small Target Image Detection](https://www.mdpi.com/2076-3417/13/15/8754) \\
+[An Improved YOLO Model for Traffic Signs Small Target Image Detection](https://www.mdpi.com/2076-3417/13/15/8754)  
+(<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
 **Tianxin Han**, Lina Sun, Qing Dong
 
 [**Paper**](https://www.mdpi.com/2076-3417/13/15/8754)
@@ -175,13 +177,14 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>SenseLite</b></div>
-<img src='images/sense.png' alt="SenseLite" style="width:100%; height:260px; object-fit:cover;">
+<div class="badge" style="font-size: 1.0em;"><b>Sensors 2023</b></div>
+<img src='images/sense.png' alt="SenseLite" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[SenseLite: A YOLO-Based Lightweight Model for Small Object Detection in Aerial Imagery](https://www.mdpi.com/1424-8220/23/19/8118) \\
+[SenseLite: A YOLO-Based Lightweight Model for Small Object Detection in Aerial Imagery](https://www.mdpi.com/1424-8220/23/19/8118)  
+(<b><font color="#1E88E5">Sensors, SCI</font></b>) \\
 **Tianxin Han**, Qing Dong, Lina Sun
 
 [**Paper**](https://www.mdpi.com/1424-8220/23/19/8118)
@@ -197,13 +200,14 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>RSNet</b></div>
-<img src='images/rsnet.png' alt="RSNet" style="width:100%; height:260px; object-fit:cover;">
+<div class="badge" style="font-size: 1.0em;"><b>Remote Sensing 2025</b></div>
+<img src='images/rsnet.png' alt="RSNet" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[RSNet: Compact-Align Detection Head Embedded Lightweight Network for Small Object Detection in Remote Sensing](#) \\
+[RSNet: Compact-Align Detection Head Embedded Lightweight Network for Small Object Detection in Remote Sensing](#)  
+(<b><font color="#1E88E5">Remote Sensing, SCI</font></b>) \\
 Qing Dong, **Tianxin Han**, Gang Wu, Bowen Qiao, Lina Sun
 
 [**Paper**](#)
@@ -217,13 +221,14 @@ Qing Dong, **Tianxin Han**, Gang Wu, Bowen Qiao, Lina Sun
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>USD-YOLO</b></div>
-<img src='images/usd_yolo.png' alt="USD-YOLO" style="width:100%; height:260px; object-fit:cover;">
+<div class="badge" style="font-size: 1.0em;"><b>Applied Sciences 2025</b></div>
+<img src='images/usd_yolo.png' alt="USD-YOLO" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception](#) \\
+[USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception](#)  
+(<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
 Hao Deng, Shuo Zhang, Xingwei Wang, **Tianxin Han**, Yu Ye
 
 [**Paper**](#)
@@ -237,13 +242,14 @@ Hao Deng, Shuo Zhang, Xingwei Wang, **Tianxin Han**, Yu Ye
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>Foggy UAV Detection</b></div>
-<img src='images/foggy_uav.png' alt="Foggy UAV Detection" style="width:100%; height:260px; object-fit:cover;">
+<div class="badge" style="font-size: 1.0em;"><b>Remote Sensing 2026</b></div>
+<img src='images/foggy_uav.png' alt="Foggy UAV Detection" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Object Detection for UAVs in Foggy Environments with Spatial-Edge Fusion and Dynamic Task Alignment](#) \\
+[Robust Object Detection for UAVs in Foggy Environments with Spatial-Edge Fusion and Dynamic Task Alignment](#)  
+(<b><font color="#1E88E5">Remote Sensing, SCI</font></b>) \\
 Qing Dong, **Tianxin Han**, Gang Wu, Lina Sun, Y. Lu
 
 [**Paper**](#)
@@ -259,16 +265,15 @@ Qing Dong, **Tianxin Han**, Gang Wu, Lina Sun, Y. Lu
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>Map Registration</b></div>
-<img src='images/map_registration.png' alt="Historical Map Registration" style="width:100%; height:260px; object-fit:cover;">
+<div class="badge" style="font-size: 1.0em;"><b>Applied Sciences 2025</b></div>
+<img src='images/map_registration.png' alt="Historical Map Registration" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[A Registration Method for Historical Maps Based on Self-Supervised Feature Matching](#) \\
+[A Registration Method for Historical Maps Based on Self-Supervised Feature Matching](#)  
+(<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
 Z. Qin, Y. Feng, Gang Wu, Qing Dong, **Tianxin Han**
-
-Applied Sciences 2025
 
 [**Paper**](#)
 

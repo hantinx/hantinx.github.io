@@ -1,6 +1,8 @@
 # 📝 Selected Publications
 
-My full paper list can be found at <a href='https://scholar.google.com/citations?user=n2UQdxEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhantinx%2Fhantinx.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My full paper list can be found at <a href='https://scholar.google.com/citations?user=n2UQdxEAAAAJ'>Google Scholar</a>.
+
+<font size="2">\* Equal contribution. <sup>†</sup> Corresponding author.</font>
 
 ## Language-Guided and Camouflaged Object Segmentation
 
@@ -8,12 +10,13 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>ACL 2026</b></div>
-<img src='images/camoquery.png' alt="CamoQuery" style="width:100%; height:auto; object-fit:cover;">
+<img src='images/camoquery.png' alt="CamoQuery" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[CamoQuery: Language-Guided Reasoning Camouflaged Object Segmentation](https://openreview.net/forum?id=DT4rnkRHbx) (<b><font color="red">ACL 2026, CCF-A</font></b>) \\
+[CamoQuery: Language-Guided Reasoning Camouflaged Object Segmentation](https://openreview.net/forum?id=DT4rnkRHbx)  
+(<b><font color="red">Annual Meeting of the Association for Computational Linguistics (ACL 2026), CCF-A</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Jie Jia, Gang Wu, Bowen Yang, Fu Zhang
 
 [**Paper**](https://openreview.net/forum?id=DT4rnkRHbx)
@@ -28,12 +31,13 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>ICASSP 2026</b></div>
-<img src='images/icassp2026.png' alt="Depth Guidance COD" style="width:100%; height:auto; object-fit:cover;">
+<img src='images/icassp2026.png' alt="Depth Guidance COD" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Depth Guidance for Camouflaged Object Detection without Annotations](https://ieeexplore.ieee.org/abstract/document/11462568) (<b><font color="red">ICASSP 2026, CCF-B</font></b>) \\
+[Learning Depth Guidance for Camouflaged Object Detection without Annotations](https://ieeexplore.ieee.org/abstract/document/11462568)  
+(<b><font color="#8E44AD">IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026), CCF-B</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Jie Jia, Lina Sun, Ming Huang, Gang Wu, Fu Zhang
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462568)
@@ -49,12 +53,13 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>KBS 2025</b></div>
-<img src='images/ppl.png' alt="Progressive Perception Learning" style="width:100%; height:auto; object-fit:cover;">
+<img src='images/ppl.png' alt="Progressive Perception Learning" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Weakly Supervised Camouflaged Object Detection as Progressive Perception Learning](https://www.sciencedirect.com/science/article/pii/S095070512501038X) (<b><font color="red">Knowledge-Based Systems, CAS Q1 / 中科院一区</font></b>, IF=7.6</font></b>) \\
+[Weakly Supervised Camouflaged Object Detection as Progressive Perception Learning](https://www.sciencedirect.com/science/article/pii/S095070512501038X)  
+(<b><font color="red">Knowledge-Based Systems (KBS), SCI, CAS Q1 / 中科院一区, IF=7.6</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Ming Huang, Jie Jia, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S095070512501038X)
@@ -72,12 +77,13 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>IEEE TCE 2025</b></div>
-<img src='images/cdnet.png' alt="CDNet" style="width:100%; height:auto; object-fit:cover;">
+<img src='images/cdnet.png' alt="CDNet" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241) (<b><font color="red">IEEE Transactions on Consumer Electronics, CAS Q1 / 中科院一区</font></b>, IF=10.9</font></b>) \\
+[CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241)  
+(<b><font color="red">IEEE Transactions on Consumer Electronics (IEEE TCE), SCI, CAS Q1 / 中科院一区, IF=10.9</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Jie Jia, Fu Zhang, Ming Huang
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241)
@@ -92,12 +98,13 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>EAAI 2025</b></div>
-<img src='images/eaai.png' alt="Rail Defect Detection" style="width:100%; height:auto; object-fit:cover;">
+<img src='images/eaai.png' alt="Rail Defect Detection" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](https://www.sciencedirect.com/science/article/pii/S0952197625021104) (<b><font color="red">Engineering Applications of Artificial Intelligence, CAS Q1 / 中科院一区</font></b>, IF=8.0</font></b>) \\
+[Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](https://www.sciencedirect.com/science/article/pii/S0952197625021104)  
+(<b><font color="red">Engineering Applications of Artificial Intelligence (EAAI), SCI, CAS Q1 / 中科院一区, IF=8.0</font></b>) \\
 Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0952197625021104)
@@ -113,12 +120,13 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>IEEE TIM 2024</b></div>
-<img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:auto; object-fit:cover;">
+<img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:auto; object-fit:contain;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
-[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740) (<b><font color="red">IEEE Transactions on Instrumentation and Measurement, CAS Q2 TOP / 中科院二区TOP</font></b>, IF=5.9</font></b>) \\
+[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740)  
+(<b><font color="#8E44AD">IEEE Transactions on Instrumentation and Measurement (IEEE TIM), SCI, CAS Q2 TOP / 中科院二区TOP, IF=5.9</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Lina Sun
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10729740)
@@ -127,6 +135,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 
 </div>
 </div>
+
 
 ## Small Object Detection and Agricultural Vision
 
@@ -140,7 +149,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box-text' markdown="1">
 
 [PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection](https://www.mdpi.com/2077-0472/14/2/228)  
-(<b><font color="red">Agriculture, SCI, CAS Q2 / 中科院二区, <b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>, IF=3.6</font></b>) \\
+(<b><font color="#8E44AD">Agriculture, SCI, CAS Q2 / 中科院二区, IF=3.6</font></b>, <b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>) \\
 Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 
 [**Paper**](https://www.mdpi.com/2077-0472/14/2/228)
@@ -207,7 +216,7 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box-text' markdown="1">
 
 [Robust Object Detection for UAVs in Foggy Environments with Spatial-Edge Fusion and Dynamic Task Alignment](https://www.mdpi.com/2072-4292/18/1/169)  
-(<b><font color="red">Remote Sensing, SCI, CAS Q2 / 中科院二区, IF=4.1</font></b>) \\
+(<b><font color="#8E44AD">Remote Sensing, SCI, CAS Q2 / 中科院二区, IF=4.1</font></b>) \\
 Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Y. Lu
 
 [**Paper**](https://www.mdpi.com/2072-4292/18/1/169)
@@ -229,7 +238,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Y. Lu
 <div class='paper-box-text' markdown="1">
 
 [RSNet: Compact-Align Detection Head Embedded Lightweight Network for Small Object Detection in Remote Sensing](https://www.mdpi.com/2072-4292/17/12/1965)  
-(<b><font color="red">Remote Sensing, SCI, CAS Q2 / 中科院二区, IF=4.1</font></b>) \\
+(<b><font color="#8E44AD">Remote Sensing, SCI, CAS Q2 / 中科院二区, IF=4.1</font></b>) \\
 Qing Dong, **Tianxin Han**, Gang Wu, Bowen Qiao, Lina Sun
 
 [**Paper**](https://www.mdpi.com/2072-4292/17/12/1965)

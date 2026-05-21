@@ -72,7 +72,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>IEEE TCE</b></div>
+<div class="badge" style="font-size: 1.0em;"><b>IEEE TCE 2025</b></div>
 <img src='images/cdnet.png' alt="CDNet" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>
@@ -113,7 +113,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge" style="font-size: 1.0em;"><b>IEEE TIM</b></div>
+<div class="badge" style="font-size: 1.0em;"><b>IEEE TIM 2024</b></div>
 <img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>

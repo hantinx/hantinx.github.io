@@ -8,7 +8,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>ACL 2026</b></div>
-<img src='images/camoquery.png' alt="CamoQuery" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/camoquery.png' alt="CamoQuery" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -29,7 +29,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>ICASSP 2026</b></div>
-<img src='images/icassp2026.png' alt="Depth Guidance COD" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/icassp2026.png' alt="Depth Guidance COD" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +50,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>KBS 2025</b></div>
-<img src='images/ppl.png' alt="Progressive Perception Learning" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/ppl.png' alt="Progressive Perception Learning" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -73,7 +73,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>IEEE TIM</b></div>
-<img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/tim.png' alt="BED-YOLO" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -94,7 +94,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-image'>
 <div>
 <div class="badge" style="font-size: 1.0em;"><b>IEEE TCE</b></div>
-<img src='images/cdnet.png' alt="CDNet" style="width:100%; height:260px; object-fit:cover;">
+<img src='images/cdnet.png' alt="CDNet" style="width:100%; height:auto; object-fit:cover;">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">

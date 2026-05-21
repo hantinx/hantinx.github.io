@@ -54,7 +54,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Weakly Supervised Camouflaged Object Detection as Progressive Perception Learning](https://www.sciencedirect.com/science/article/pii/S095070512501038X) (<b><font color="red">Knowledge-Based Systems, CAS Q1 / 中科院一区</font></b>) \\
+[Weakly Supervised Camouflaged Object Detection as Progressive Perception Learning](https://www.sciencedirect.com/science/article/pii/S095070512501038X) (<b><font color="red">Knowledge-Based Systems, CAS Q1 / 中科院一区</font></b>, IF=7.6</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Ming Huang, Jie Jia, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S095070512501038X)
@@ -77,7 +77,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 <div class='paper-box-text' markdown="1">
 
-[CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241) (<b><font color="red">IEEE Transactions on Consumer Electronics, CAS Q1 / 中科院一区</font></b>) \\
+[CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241) (<b><font color="red">IEEE Transactions on Consumer Electronics, CAS Q1 / 中科院一区</font></b>, IF=10.9</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Jie Jia, Fu Zhang, Ming Huang
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168241)
@@ -97,7 +97,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](https://www.sciencedirect.com/science/article/pii/S0952197625021104) (<b><font color="red">Engineering Applications of Artificial Intelligence, CAS Q1 / 中科院一区</font></b>) \\
+[Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](https://www.sciencedirect.com/science/article/pii/S0952197625021104) (<b><font color="red">Engineering Applications of Artificial Intelligence, CAS Q1 / 中科院一区</font></b>, IF=8.0</font></b>) \\
 Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0952197625021104)
@@ -118,7 +118,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 </div>
 <div class='paper-box-text' markdown="1">
 
-[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740) (<b><font color="red">IEEE Transactions on Instrumentation and Measurement, CAS Q2 TOP / 中科院二区TOP</font></b>) \\
+[BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740) (<b><font color="red">IEEE Transactions on Instrumentation and Measurement, CAS Q2 TOP / 中科院二区TOP</font></b>, IF=5.9</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Lina Sun
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10729740)
@@ -140,7 +140,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box-text' markdown="1">
 
 [PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection](https://www.mdpi.com/2077-0472/14/2/228)  
-(<b><font color="red">Agriculture, SCI, CAS Q2 / 中科院二区, IF=3.6</font></b>, <b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>) \\
+(<b><font color="red">Agriculture, SCI, CAS Q2 / 中科院二区, <b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>, IF=3.6</font></b>) \\
 Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 
 [**Paper**](https://www.mdpi.com/2077-0472/14/2/228)

@@ -140,7 +140,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box-text' markdown="1">
 
 [PestLite: A Novel YOLO-Based Deep Learning Technique for Crop Pest Detection](https://www.mdpi.com/2077-0472/14/2/228)  
-(<b><font color="red">Agriculture, SCI</font></b>, <b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>) \\
+(<b><font color="red">Agriculture, SCI, CAS Q2 / 中科院二区, IF=3.6</font></b>, <b><font color="red">ESI Highly Cited Paper</font></b>, <b><font color="red">Hot Paper</font></b>) \\
 Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 
 [**Paper**](https://www.mdpi.com/2077-0472/14/2/228)
@@ -163,7 +163,7 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box-text' markdown="1">
 
 [An Improved YOLO Model for Traffic Signs Small Target Image Detection](https://www.mdpi.com/2076-3417/13/15/8754)  
-(<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
+(<b><font color="#1E88E5">Applied Sciences, SCI, IF=2.5</font></b>) \\
 **Tianxin Han**, Lina Sun, Qing Dong
 
 [**Paper**](https://www.mdpi.com/2076-3417/13/15/8754)
@@ -184,7 +184,7 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box-text' markdown="1">
 
 [SenseLite: A YOLO-Based Lightweight Model for Small Object Detection in Aerial Imagery](https://www.mdpi.com/1424-8220/23/19/8118)  
-(<b><font color="#1E88E5">Sensors, SCI</font></b>) \\
+(<b><font color="#1E88E5">Sensors, SCI, IF=3.5</font></b>) \\
 **Tianxin Han**, Qing Dong, Lina Sun
 
 [**Paper**](https://www.mdpi.com/1424-8220/23/19/8118)
@@ -207,12 +207,13 @@ Qing Dong, Lina Sun, <b>Tianxin Han<sup>†</sup></b>, Ming Cai, Cheng Gao
 <div class='paper-box-text' markdown="1">
 
 [Robust Object Detection for UAVs in Foggy Environments with Spatial-Edge Fusion and Dynamic Task Alignment](https://www.mdpi.com/2072-4292/18/1/169)  
-(<b><font color="#1E88E5">Remote Sensing, SCI</font></b>) \\
-Qing Dong, **Tianxin Han**, Gang Wu, Lina Sun, Y. Lu
+(<b><font color="red">Remote Sensing, SCI, CAS Q2 / 中科院二区, IF=4.1</font></b>) \\
+Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Y. Lu
 
 [**Paper**](https://www.mdpi.com/2072-4292/18/1/169)
 
   - We investigate robust UAV object detection in foggy environments with spatial-edge fusion and dynamic task alignment.
+  - \* Equal contribution.
 
 </div>
 </div>
@@ -228,7 +229,7 @@ Qing Dong, **Tianxin Han**, Gang Wu, Lina Sun, Y. Lu
 <div class='paper-box-text' markdown="1">
 
 [RSNet: Compact-Align Detection Head Embedded Lightweight Network for Small Object Detection in Remote Sensing](https://www.mdpi.com/2072-4292/17/12/1965)  
-(<b><font color="#1E88E5">Remote Sensing, SCI</font></b>) \\
+(<b><font color="red">Remote Sensing, SCI, CAS Q2 / 中科院二区, IF=4.1</font></b>) \\
 Qing Dong, **Tianxin Han**, Gang Wu, Bowen Qiao, Lina Sun
 
 [**Paper**](https://www.mdpi.com/2072-4292/17/12/1965)
@@ -249,7 +250,7 @@ Qing Dong, **Tianxin Han**, Gang Wu, Bowen Qiao, Lina Sun
 <div class='paper-box-text' markdown="1">
 
 [USD-YOLO: An Enhanced YOLO Algorithm for Small Object Detection in Unmanned Systems Perception](https://www.mdpi.com/2076-3417/15/7/3795)  
-(<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
+(<b><font color="#1E88E5">Applied Sciences, SCI, IF=2.5</font></b>) \\
 Hao Deng, Shuo Zhang, Xingwei Wang, **Tianxin Han**, Yu Ye
 
 [**Paper**](https://www.mdpi.com/2076-3417/15/7/3795)
@@ -272,7 +273,7 @@ Hao Deng, Shuo Zhang, Xingwei Wang, **Tianxin Han**, Yu Ye
 <div class='paper-box-text' markdown="1">
 
 [A Registration Method for Historical Maps Based on Self-Supervised Feature Matching](https://www.mdpi.com/2076-3417/15/3/1472)  
-(<b><font color="#1E88E5">Applied Sciences, SCI</font></b>) \\
+(<b><font color="#1E88E5">Applied Sciences, SCI, IF=2.5</font></b>) \\
 Z. Qin, Y. Feng, Gang Wu, Qing Dong, **Tianxin Han**
 
 [**Paper**](https://www.mdpi.com/2076-3417/15/3/1472)

@@ -57,7 +57,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised Camouflaged Object Detection as Progressive Perception Learning](https://www.sciencedirect.com/science/article/pii/S095070512501038X)  
-(<b><font color="red">Knowledge-Based Systems, SCI, CAS Q1 / 中科院一区, IF=7.6</font></b>) \\
+(<b><font color="red">Knowledge-Based Systems, SCI, CAS Q1 / 中科院一区, IF=8.0</font></b>) \\
 **Tianxin Han**, Xingwei Wang, Qing Dong, Ming Huang, Jie Jia, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S095070512501038X)
@@ -102,7 +102,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](https://www.sciencedirect.com/science/article/pii/S0952197625021104)  
-(<b><font color="red">Engineering Applications of Artificial Intelligence, SCI, CAS Q1 / 中科院一区, IF=8.0</font></b>) \\
+(<b><font color="red">Engineering Applications of Artificial Intelligence, SCI, CAS Q1 / 中科院一区, IF=9.0</font></b>) \\
 Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 
 [**Paper**](https://www.sciencedirect.com/science/article/pii/S0952197625021104)
@@ -124,7 +124,7 @@ Qing Dong\*, **Tianxin Han\***, Gang Wu, Lina Sun, Ming Huang, Fu Zhang
 <div class='paper-box-text' markdown="1">
 
 [BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](https://ieeexplore.ieee.org/abstract/document/10729740)  
-(<b><font color="#8E44AD">IEEE Transactions on Instrumentation and Measurement, SCI, CAS Q2 TOP / 中科院二区TOP, IF=5.9</font></b>) \\
+(<b><font color="#8E44AD">IEEE Transactions on Instrumentation and Measurement, SCI, CAS Q2 TOP / 中科院二区TOP, IF=7.0</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Lina Sun
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10729740)

@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.06*: [Dual-modal Consistency Learning for Weakly Supervised RGB-D Camouflaged Object Detection with Scribble Annotations](https://www.sciencedirect.com/science/article/abs/pii/S0020025526007711) is published in Information Sciences (<b><font color="red">CCF-B</font></b>, <b><font color="red">CAS Q1 / 中科院一区</font></b>) ! 🎉🎉
 - *2026.03*: [CamoQuery: Language-Guided Reasoning Camouflaged Object Segmentation](https://openreview.net/forum?id=DT4rnkRHbx) is accepted by ACL 2026 (<b><font color="red">CCF-A</font></b>, <b><font color="red">Accepted</font></b>) ! 🎉🎉
 - *2026.11*: [Learning Depth Guidance for Camouflaged Object Detection without Annotations](#) is accepted by ICASSP 2026 (<b><font color="red">CCF-B</font></b>, <b><font color="red">Accepted</font></b>) ! 🎉
 - *2025.09*: I received the National Scholarship for Ph.D. Students (博士研究生国家奖学金) (<b><font color="red">National Scholarship</font></b>) ! 🏆

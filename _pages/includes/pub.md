@@ -7,6 +7,46 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge" style="font-size: 1.0em;"><b>NeurIPS 2026</b></div>
+<img src='images/mrrcos.png' alt="MRR-COS" style="width:100%; height:auto; object-fit:contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes](https://openreview.net/forum?id=3zhU55LkCQ)  
+(<b><font color="red">NeurIPS 2026, CCF-A</font></b>) \\
+**Tianxin Han**, Qing Dong, Xingwei Wang, Jie Jia
+
+[**Paper**](https://openreview.net/forum?id=3zhU55LkCQ)
+
+- We study referring and reasoning camouflaged object segmentation in audio-visual scenes, where the model identifies and segments camouflaged targets through joint audio-visual reasoning.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge" style="font-size: 1.0em;"><b>Information Sciences 2026</b></div>
+<img src='images/dmcl.png' alt="DMCL" style="width:100%; height:auto; object-fit:contain;">
+</div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Dual-modal Consistency Learning for Weakly Supervised RGB-D Camouflaged Object Detection with Scribble Annotations](https://www.sciencedirect.com/science/article/abs/pii/S0020025526007711)  
+(<b><font color="red">Information Sciences, CCF-B, CAS Q1 / 中科院一区</font></b>) \\
+**Tianxin Han**, Xingwei Wang, Qing Dong, Lina Sun, Min Huang, Jie Jia, Fu Zhang
+
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0020025526007711)
+
+  - We study weakly supervised RGB-D camouflaged object detection with scribble annotations and propose dual-modal consistency learning to exploit complementary RGB and depth cues under sparse supervision.
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge" style="font-size: 1.0em;"><b>ACL 2026</b></div>
 <img src='images/camoquery.png' alt="CamoQuery" style="width:100%; height:auto; object-fit:contain;">
 </div>

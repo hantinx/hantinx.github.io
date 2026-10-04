@@ -14,7 +14,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [Referring and Reasoning Camouflaged Object Segmentation in Audio-Visual Scenes](https://openreview.net/forum?id=3zhU55LkCQ)  
-(<b><font color="red">NeurIPS 2026, CCF-A</font></b>) \\
+(<b><font color="red">NeurIPS 2026 Main Conference, CCF-A</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Jie Jia
 
 [**Paper**](https://openreview.net/forum?id=3zhU55LkCQ)
@@ -54,7 +54,7 @@ My full paper list can be found at <a href='https://scholar.google.com/citations
 <div class='paper-box-text' markdown="1">
 
 [CamoQuery: Language-Guided Reasoning Camouflaged Object Segmentation](https://openreview.net/forum?id=DT4rnkRHbx)  
-(<b><font color="red">ACL 2026, CCF-A</font></b>) \\
+(<b><font color="red">ACL 2026 Main Conference, CCF-A</font></b>) \\
 **Tianxin Han**, Qing Dong, Xingwei Wang, Jie Jia, Gang Wu, Bowen Yang, Fu Zhang
 
 [**Paper**](https://openreview.net/forum?id=DT4rnkRHbx)

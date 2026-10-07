@@ -1,8 +1,10 @@
 # 👋 About Me
 
-I am a Ph.D. student at [Ghent University](https://www.ugent.be/) and a combined M.Eng.-Ph.D. student in Computer Science at [Northeastern University](https://www.neu.edu.cn/), China.
+I am a Dual Ph.D. student at [Ghent University](https://www.ugent.be/) and [Northeastern University](https://www.neu.edu.cn/), China, affiliated with [imec](https://www.imec-int.com/) at Ghent University.
 
 My research interests lie broadly in computer vision and multimodal visual understanding, with a focus on vision-language models, camouflaged object understanding, remote sensing image interpretation, defect detection, and annotation-efficient learning.
+
+Any form of collaboration is welcome. Please feel free to contact me via email (tianxinhan797@gmail.com).
 
 # 🔍 Research Topics
 

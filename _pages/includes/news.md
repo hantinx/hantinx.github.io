@@ -3,11 +3,11 @@
 - *2026.06*: [Dual-modal Consistency Learning for Weakly Supervised RGB-D Camouflaged Object Detection with Scribble Annotations](https://www.sciencedirect.com/science/article/abs/pii/S0020025526007711) is published in Information Sciences (<b><font color="red">CCF-B</font></b>, <b><font color="red">CAS Q1 / 中科院一区</font></b>) ! 🎉🎉
 - *2026.03*: [CamoQuery: Language-Guided Reasoning Camouflaged Object Segmentation](https://openreview.net/forum?id=DT4rnkRHbx) is accepted by ACL 2026 Main Conference (<b><font color="red">CCF-A</font></b>, <b><font color="red">Accepted</font></b>) ! 🎉🎉
 - *2025.11*: [Learning Depth Guidance for Camouflaged Object Detection without Annotations](#) is accepted by ICASSP 2026 (<b><font color="red">CCF-B</font></b>, <b><font color="red">Accepted</font></b>) ! 🎉
-- *2025.09*: I received the National Scholarship for Ph.D. Students (博士研究生国家奖学金) (<b><font color="red">National Scholarship</font></b>) ! 🏆
-- *2025.09*: I received the Outstanding Ph.D. Student Award of Northeastern University (东北大学优秀博士研究生) (<b><font color="#D35400">Award</font></b>) ! 🏆
+<!-- - *2025.09*: I received the National Scholarship for Ph.D. Students (博士研究生国家奖学金) (<b><font color="red">National Scholarship</font></b>) ! 🏆 -->
+<!-- - *2025.09*: I received the Outstanding Ph.D. Student Award of Northeastern University (东北大学优秀博士研究生) (<b><font color="#D35400">Award</font></b>) ! 🏆 -->
 - *2025.09*: [Weakly Supervised Camouflaged Object Detection as Progressive Perception Learning](#) is published in Knowledge-Based Systems (<b><font color="red">CAS Q1 / 中科院一区</font></b>, <b><font color="#1E88E5">SCI Journal</font></b>) ! 🎉
 - *2025.07*: [CDNet: Efficient Real-Time Chip Defect Detection for Consumer Electronics](#) is accepted by IEEE Transactions on Consumer Electronics (<b><font color="red">CAS Q1 / 中科院一区</font></b>, <b><font color="#8E44AD">IEEE TCE</font></b>) ! 🎉
 - *2025.06*: [Industrial Device-Aided Data Collection for Real-Time Rail Defect Detection via a Lightweight Network](#) is published in Engineering Applications of Artificial Intelligence (<b><font color="red">CAS Q1 / 中科院一区</font></b>, <b><font color="#1E88E5">SCI Journal</font></b>) ! 🎉
 - *2024.09*: [BED-YOLO: An Enhanced YOLOv8 for High-Precision Real-Time Bearing Defect Detection](#) is published in IEEE Transactions on Instrumentation and Measurement (<b><font color="red">CAS Q2 TOP / 中科院二区TOP</font></b>, <b><font color="#8E44AD">IEEE TIM</font></b>) ! 🎉
-- *2023.09*: I received the Outstanding Master's Student Award of Northeastern University (东北大学优秀硕士研究生) (<b><font color="#D35400">Award</font></b>) ! 🏆
-- *2023.09*: I received the Northeastern University Named Scholarship (东北大学命名奖学金) (<b><font color="#D35400">Scholarship</font></b>) ! 🏆
+<!-- - *2023.09*: I received the Outstanding Master's Student Award of Northeastern University (东北大学优秀硕士研究生) (<b><font color="#D35400">Award</font></b>) ! 🏆 -->
+<!-- - *2023.09*: I received the Northeastern University Named Scholarship (东北大学命名奖学金) (<b><font color="#D35400">Scholarship</font></b>) ! 🏆 -->

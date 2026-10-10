@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a Dual Ph.D. student at [Ghent University](https://www.ugent.be/) and [Northeastern University](https://www.neu.edu.cn/), China, affiliated with [imec](https://www.imec-int.com/) at Ghent University.
+<!-- I am a Dual Ph.D. student at [Ghent University](https://www.ugent.be/) and [Northeastern University](https://www.neu.edu.cn/), China, affiliated with [imec](https://www.imec-int.com/) at Ghent University. -->
 
 My research interests lie broadly in computer vision and multimodal visual understanding, with a focus on vision-language models, camouflaged object understanding, remote sensing image interpretation, defect detection, and annotation-efficient learning.
 

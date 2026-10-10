@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianxin Han (韩天鑫)"
-description              : "Ph.D. Student"
+description              : <!-- "Ph.D. Student" -->
 repository               : "hantinx/hantinx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianxin Han (韩天鑫)"
   avatar           : 
-  bio              : "Dual PhD at UGhent-imec and NEU"
-  location         : "Gent, Belgium"
+  bio              : <!-- "Dual PhD at UGhent-imec and NEU" -->
+  location         : <!-- "Gent, Belgium" -->
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n2UQdxEAAAAJ"

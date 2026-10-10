@@ -3,5 +3,5 @@
 <!-- - *2022.09-2024.07*, M.S.-Ph.D. integrated program at [Northeastern University (NEU)](https://www.neu.edu.cn/), China. -->
 
 # 💻 Research Experiences
-- *2024.09-Now*, Ph.D. researcher at [Northeastern University (NEU)](https://www.neu.edu.cn/), China, working on multimodal visual perception, vision-language models, and camouflaged object understanding.
-- *2022.09-2024.07*, Graduate researcher at [Northeastern University (NEU)](https://www.neu.edu.cn/), China, working on visual measurement systems and intelligent detection.
+<!-- - *2024.09-Now*, Ph.D. researcher at [Northeastern University (NEU)](https://www.neu.edu.cn/), China, working on multimodal visual perception, vision-language models, and camouflaged object understanding. -->
+<!-- - *2022.09-2024.07*, Graduate researcher at [Northeastern University (NEU)](https://www.neu.edu.cn/), China, working on visual measurement systems and intelligent detection. -->
